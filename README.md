@@ -14,3 +14,6 @@ Our dataset comes from several sources in kaggle
 - the dataset we use:
 [here](https://drive.google.com/drive/folders/1Ng2dvhZofCdrvk24a_pb_lfTmPVwxa6y?usp=sharing)
 
+- split train and test data:
+[here](https://drive.google.com/drive/folders/1nW_5xcc7JFZ37uiG1VlTO0IQ8LA_Mx2S?usp=sharing)
+
