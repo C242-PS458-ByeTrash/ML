@@ -8,7 +8,7 @@
 
 # Dataset
 Our dataset comes from several sources in kaggle 
-dataset from kaggle :
+- dataset from kaggle :
 https://www.kaggle.com/datasets/techsash/waste-classification-data
 https://www.kaggle.com/datasets/copycattttt/hazardous-waste
 the dataset we use:
