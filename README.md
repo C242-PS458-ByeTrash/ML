@@ -9,7 +9,8 @@
 # Dataset
 Our dataset comes from several sources in kaggle 
 - dataset from kaggle :
-[here](https://www.kaggle.com/datasets/techsash/waste-classification-data)
+1. [here](https://www.kaggle.com/datasets/techsash/waste-classification-data)
+2. [here](https://www.kaggle.com/datasets/copycattttt/hazardous-waste)
 - the dataset we use:
-https://github.com/C242-PS458-ByeTrash/dataset-ml.git
+[here](https://github.com/C242-PS458-ByeTrash/dataset-ml.git)
 
